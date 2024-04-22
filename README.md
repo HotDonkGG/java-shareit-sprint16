@@ -10,6 +10,9 @@
 - Mockito, JUnit
 - Lombok
 
+  ![shareit](https://github.com/Kirillzhukov737/java-shareit/assets/110101893/a064f862-552f-4fc3-bc1c-e40a6c992507)
+
+
 <span style="font-size:48px;">***ShareIt - О проекте***</span>
 
 Сервис, который позволяет пользователям рассказывать, какими вещами они готовы поделиться, а также находить нужную вещь и брать её в аренду на какое-то время
